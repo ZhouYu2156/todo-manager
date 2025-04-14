@@ -41,7 +41,7 @@
 1. 克隆仓库到本地
 
 ```
-git clone https://github.com/yourusername/todo-manager.git
+git clone https://github.com/zhouyu2156/todo-manager.git
 ```
 
 2. 安装依赖
@@ -65,7 +65,7 @@ npm run build
 
 ## 📸 项目截图
 
-![./public/todo-manager.png]
+![todo-manager](./public/todo-manager.png)
 
 ## 📄 许可证
 
